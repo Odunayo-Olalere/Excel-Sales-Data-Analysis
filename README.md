@@ -36,4 +36,5 @@ Business Recommendations
 - Identify and share effective practices from top-performing representatives, while providing targeted support to lower-performing representatives. Evaluate performance against sales targets and profit contribution before making final assessments.
 
 Project Outcome
+
   This project demonstrates how Excel can be used to transform sales data into an interactive dashboard for monitoring business performance. The analysis highlights key performance indicators, product profitability, sales representative contributions, city-level cost distribution, and customer trends to support data-driven decision-making.
